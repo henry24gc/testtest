@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/simulation-class/static/css/main.18e11287.css",
-    "main.js": "/simulation-class/static/js/main.b94b656c.js",
-    "static/js/483.9e6d10fa.chunk.js": "/simulation-class/static/js/483.9e6d10fa.chunk.js",
-    "static/js/787.939d5ca9.chunk.js": "/simulation-class/static/js/787.939d5ca9.chunk.js",
-    "service-worker.js": "/simulation-class/service-worker.js",
-    "index.html": "/simulation-class/index.html",
-    "main.18e11287.css.map": "/simulation-class/static/css/main.18e11287.css.map",
-    "main.b94b656c.js.map": "/simulation-class/static/js/main.b94b656c.js.map",
-    "483.9e6d10fa.chunk.js.map": "/simulation-class/static/js/483.9e6d10fa.chunk.js.map",
-    "787.939d5ca9.chunk.js.map": "/simulation-class/static/js/787.939d5ca9.chunk.js.map"
+    "main.css": "/testtest/static/css/main.18e11287.css",
+    "main.js": "/testtest/static/js/main.867ec76a.js",
+    "static/js/483.2d70bce4.chunk.js": "/testtest/static/js/483.2d70bce4.chunk.js",
+    "static/js/787.939d5ca9.chunk.js": "/testtest/static/js/787.939d5ca9.chunk.js",
+    "service-worker.js": "/testtest/service-worker.js",
+    "index.html": "/testtest/index.html",
+    "main.18e11287.css.map": "/testtest/static/css/main.18e11287.css.map",
+    "main.867ec76a.js.map": "/testtest/static/js/main.867ec76a.js.map",
+    "483.2d70bce4.chunk.js.map": "/testtest/static/js/483.2d70bce4.chunk.js.map",
+    "787.939d5ca9.chunk.js.map": "/testtest/static/js/787.939d5ca9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18e11287.css",
-    "static/js/main.b94b656c.js"
+    "static/js/main.867ec76a.js"
   ]
 }
